@@ -1,5 +1,5 @@
 <?php
-	
+	// using XAMPP server and taking input parameter using post method... 
 	if(isset($_POST['submit']))
 	{
 		$x=$_POST['xdir'];
